@@ -9,9 +9,7 @@
     ],
     "require": {
         "php": "~5.4"
-        //"ext-redis": ">=2.2.5 || >=2.2.8-devphp7"
     },
-
     "autoload": {
         "psr-4": {
             "RedLock\\": "src/"
